@@ -2,7 +2,7 @@
   "name": "react-pdfjs",
   "version": "1.0.6",
   "description": "A React component to wrap PDF.js",
-  "main": "./src/Pdf.js",
+  "main": "./dist/react-pdfjs.js",
   "jsnext:main": "./src/index.js",
   "repository": {
     "type": "git",
